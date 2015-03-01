@@ -66,7 +66,8 @@ Documenter les librairies développées à l'interne. <br/>
 
 **Environnement technique :** Linux Ubuntu et Centos, Mysql,  Apache, PHP, Mysql, Javascript, jQuery, Zend framework, Python, Django, Twitter api.
 
-### Gérant d’artistes musicaux - Gestion Denis Laliberté, Montréal	2007-2010
+### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
+**Montréal	2007-2010**
 
 FORMATION ACADÉMIQUE 
 --------------------------------------
