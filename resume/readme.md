@@ -1,11 +1,11 @@
 Denis Laliberté
 ============
 
-5987 Saint-Vallier, Montréal (Québec) H2S 2P4 <br/>
-514-963-2323 <br/>
-denis.laliberte@gmail.com <br/>
+5987 Saint-Vallier, Montréal (Québec) H2S 2P4  
+514-963-2323  
+denis.laliberte@gmail.com   
 [ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte) ||
-[ denislaliberte.github.com ](http://denislaliberte.github.com)
+[ denislaliberte.github.com ](http://denislaliberte.github.com)  
 
 Compétences linguistiques : français et anglais fonctionnel
 
@@ -30,16 +30,19 @@ EXPÉRIENCE DE TRAVAIL
 
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
 
-**Responsabilités :**  <br/>
-Développer des solutions technologiques fiables et robustes. 
-Participer à l’analyse technologique et de besoins d'affaire. <br/>
-Effectuer un contrôle qualité rigoureux. <br/>
-Travailler au sein d'une équipe multidisciplinaire. <br/>
-Participe à la définition et au raffinement des processus internes. <br/>
-Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités. <br/>
-Documenter les solutions. <br/>
+**Responsabilités :**  
+Développer des solutions technologiques fiables et robustes.  
+Participer à l’analyse technologique et de besoins d'affaire.  
+Effectuer un contrôle qualité rigoureux.  
+Travailler au sein d'une équipe multidisciplinaire.  
+Participe à la définition et au raffinement des processus internes.  
+Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.  
+Documenter les solutions.  
+
 
 **Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer 
+
+ \newpage
 
 ### Développeur web – Absolunet ###
 **Montréal 2013-2014**
