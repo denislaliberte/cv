@@ -40,6 +40,9 @@ Participe à la définition et au raffinement des processus internes. <br/>
 Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités. <br/>
 Documenter les solutions. <br/>
 
+
+ \newpage
+
 **Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer 
 
 ### Développeur web – Absolunet ###
