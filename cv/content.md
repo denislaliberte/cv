@@ -1,6 +1,3 @@
-Github information
-Denis Laliberté
-============
 
 denis.laliberte@gmail.com  
 
