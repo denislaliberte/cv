@@ -1,5 +1,5 @@
-Denis Laliberté
-============
+
+denis.laliberte@gmail.com  
 
 [ denislaliberte.github.io ](http://denislaliberte.github.io) ||
 [ PDF ](http://denislaliberte.github.io/cv/2015_Denis_Laliberte_.pdf) ||
