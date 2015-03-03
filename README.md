@@ -2,9 +2,6 @@ Github information
 Denis Laliberté
 ============
 
-5987 Saint-Vallier, Montréal (Québec) H2S 2P4  
-514-963-2323  
-denis.laliberte@gmail.com   
 [ denislaliberte.github.io ](http://denislaliberte.github.io) ||
 [ PDF ](http://denislaliberte.github.io/cv/2015_Denis_Laliberte_.pdf) ||
 [ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte)

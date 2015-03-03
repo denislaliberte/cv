@@ -1,9 +1,6 @@
 Denis Laliberté
 ============
 
-5987 Saint-Vallier, Montréal (Québec) H2S 2P4  
-514-963-2323  
-denis.laliberte@gmail.com   
 [ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte) ||
 [ denislaliberte.github.com ](http://denislaliberte.github.com)  
 
