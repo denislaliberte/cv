@@ -1,4 +1,7 @@
 #!/bin/bash
+echo "Resume Build script"
+cat build.sh
+echo "###################################"
 echo "cleanup (remove cv folders content)"
 sudo rm -r private/cv
 rm cv/*
