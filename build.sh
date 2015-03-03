@@ -2,7 +2,7 @@
 
 echo "export html"
 cat cv/header.md cv/content.md > cv/2015_Denis_Laliberte_.md
-pandoc --template=cv/template/initializr.html cv/2015_Denis_Laliberte_.md -o index.html
+pandoc --template=template/initializr.html cv/2015_Denis_Laliberte_.md -o index.html
 
 echo "export pdf"
 rm cv/2015_Denis_Laliberte_.pdf
