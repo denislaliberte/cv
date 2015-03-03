@@ -1,4 +1,3 @@
-Github information
 Denis Laliberté
 ============
 
