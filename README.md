@@ -5,8 +5,9 @@ Denis Laliberté
 5987 Saint-Vallier, Montréal (Québec) H2S 2P4  
 514-963-2323  
 denis.laliberte@gmail.com   
-[ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte) ||
-[ denislaliberte.github.com ](http://denislaliberte.github.com)  
+[ denislaliberte.github.io ](http://denislaliberte.github.io) ||
+[ PDF ](http://denislaliberte.github.io/cv/2015_Denis_Laliberte_.pdf) ||
+[ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte)
 
 Compétences linguistiques : français et anglais fonctionnel
 
