@@ -9,9 +9,7 @@ Denis Laliberté
 ===============
 denis.laliberte@gmail.com
 
-[ denislaliberte.github.io ](http://denislaliberte.github.io) ||
-[ PDF ](http://denislaliberte.github.io/cv/2015_Denis_Laliberte_.pdf) ||
-[ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte)
+[ denislaliberte.github.io ](http://denislaliberte.github.io)
 
 Compétences linguistiques : français et anglais fonctionnel
 
@@ -24,14 +22,14 @@ COMPÉTENCES TECHNIQUES
 - Serveur d'intégration continue : Jenkins
 - Bases de données : MySQL, PostgreSQL, Oracle
 - Méthodologies Agiles : SCRUM et « Extreme Programming ».
-- Serveurs : Linux Ubuntu, RedHat et CentOs 
+- Serveurs : Linux Ubuntu, RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine, 
+- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine,
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
 
-### Développeur web – TP1 ###
+### Développeur web – [ TP1 ](http://tp1.ca) ###
 *Montréal 2014-Présent*
 
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
@@ -46,11 +44,11 @@ Collaborer à la détermination des échéanciers et estimer le temps requis par
 Documenter les solutions.  
 
 
-**Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer 
+**Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer
 
   \newpage
 
-### Développeur web – Absolunet ###
+### Développeur web – [ Absolunet ](http://absolunet.com) ###
 *Montréal 2013-2014*
 
 Absolunet est une agence interactive intégrée se spécialisant dans la stratégie internet, la réalisation de projets numériques, le commerce électronique et le marketing web.
@@ -67,10 +65,10 @@ Documenter les solutions.
 ### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
 *Montréal 2007-2010*
 
-FORMATION ACADÉMIQUE 
+FORMATION ACADÉMIQUE
 --------------------------------------
 
-### DEC Intensif en informatique ###
+### [ DEC Intensif en informatique ](http://informatique.cvm.qc.ca/intensif) ###
 *2011-2012*  
 Profil informatique de gestion et gestion de réseaux <br/>
 CÉGEP du Vieux-Montréal, Montréal
