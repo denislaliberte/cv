@@ -9,15 +9,19 @@ echo "##########################################################################
 echo "cleanup (remove cv folders content)"
 sudo rm -r private/cv
 rm cv/*
+rm en/*
 mkdir private
 mkdir private/cv
 
 echo "export html"
 cat data/header.md data/content.md > cv/2015_Denis_Laliberte_.md
+cat data/header.md data/content-en.md > en/2015_Denis_Laliberte_.md
 pandoc --template=template/initializr.html data/content.md -o index.html
+pandoc --template=template/initializr.html data/content-en.md -o en/index.html
 
 echo "export pdf"
 pandoc cv/2015_Denis_Laliberte_.md -o cv/2015_Denis_Laliberte_.pdf
+pandoc en/2015_Denis_Laliberte_.md -o en/2015_Denis_Laliberte_.pdf
 
 echo "export private pdf"
 cat private/header.md data/content.md > private/cv/2015_Denis_Laliberte_.md
