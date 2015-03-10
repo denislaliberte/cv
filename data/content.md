@@ -1,4 +1,5 @@
 
+
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
@@ -8,7 +9,7 @@ COMPÉTENCES TECHNIQUES
 - Méthodologies Agiles : SCRUM et « Extreme Programming ».
 - Serveurs : Linux Ubuntu, RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine,
+- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine, Jira, Confluence, Basecamp
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
