@@ -1,4 +1,11 @@
+expérience
 
+spécialité
+
+éducation
+
+
+pragmatic
 
 
 deux ans d'expérience

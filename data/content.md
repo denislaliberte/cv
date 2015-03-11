@@ -62,5 +62,3 @@ CÉGEP du Vieux-Montréal, Montréal
 *2004-2007*  
 Profil composition et arrangement  
 Collège de St-Laurent, Montréal
-
-**Il me fera plaisir de vous transmettre des références sur demande.**
