@@ -7,6 +7,7 @@ Compétences linguistiques : français et anglais fonctionnel
 
 ---
 
+
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
@@ -16,7 +17,7 @@ COMPÉTENCES TECHNIQUES
 - Méthodologies Agiles : SCRUM et « Extreme Programming ».
 - Serveurs : Linux Ubuntu, RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine,
+- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine, Jira, Confluence, Basecamp
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
@@ -69,5 +70,3 @@ CÉGEP du Vieux-Montréal, Montréal
 *2004-2007*  
 Profil composition et arrangement  
 Collège de St-Laurent, Montréal
-
-**Il me fera plaisir de vous transmettre des références sur demande.**
