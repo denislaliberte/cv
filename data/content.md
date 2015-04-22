@@ -9,7 +9,7 @@ COMPÉTENCES TECHNIQUES
 - Méthodologies Agiles : SCRUM et « Extreme Programming ».
 - Serveurs : Linux Ubuntu, RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine, Jira, Confluence, Basecamp
+- Autres : Laravel, Ruby On Rails, RSpec, Git, fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, Drupal, AngularJS, Backbone.js, Jasmine, Jira, Confluence, Basecamp
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
@@ -29,7 +29,7 @@ Collaborer à la détermination des échéanciers et estimer le temps requis par
 Documenter les solutions.  
 
 
-**Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer
+**Environnement technique :** Ruby, Ruby On Rails, Linux Centos, Redhat et Ubuntu, PostgreSQL, Mysql,  Apache, Nginx, PHP, Laravel, PHPUnit  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer, Backbone.js
 
   \newpage
 
