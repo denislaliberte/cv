@@ -48,9 +48,6 @@ Documenter les solutions.
 
 **Environnement technique :** Linux Ubuntu, Mysql,  Apache, Nginx, PHP, Mysql, Javascript, jQuery, C#, Drupal, Sitecore,  .NET  Microsoft SQL server, Symfony 2, Méthodologie Scrum, Google Map Api
 
-### Développeur web – Commun ### 
-**Montréal 2012 Octobre-Novembre**
-
 ### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
 **Montréal 2007-2010**
 
