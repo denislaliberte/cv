@@ -1,23 +1,15 @@
-Denis Laliberté
-============
-
-[ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte) ||
-[ denislaliberte.github.com ](http://denislaliberte.github.com)  
-
-Compétences linguistiques : français et anglais avancé
-
----
 
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
-- Langages : Ruby, Javascript, Python, PHP,  Java
+- Langages : Ruby, PHP, Javascript, Python<!--, Java -->
+- Frameworks web : Laravel, Ruby On Rails
 - Serveur d'intégration continue : Jenkins
-- Bases de données : MySQL, PostgreSQL, Oracle
-- Méthodologies Agiles : SCRUM, Kanban et « Extreme Programming ».
-- Serveurs : Linux Ubuntu, RedHat et CentOs 
+- Bases de données : MySQL, PostgreSQL<!--, Oracle -->
+- Méthodologies Agiles : SCRUM, Kanban<!--, « Extreme Programming ». -->
+- Serveurs : Linux RedHat, CentOs<!--, Ubuntu -->
 - Serveurs web : Apache
-- Autres : Vagrant, laravel, Ruby On Rails, RSpec, Git, Gitlab, fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, Drupal, AngularJS, Backbone.js, Jasmine, Jira, Confluence, Basecamp
+- Autres : Vagrant, RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira<!--, AngularJS, Backbone.js, Confluence, Wordpress -->
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
@@ -25,12 +17,13 @@ EXPÉRIENCE DE TRAVAIL
 ### Développeur web – [ TP1 ](http://tp1.ca) ###
 *Montréal 2014-Présent*
 
-TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
+TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif et commerce électronique.
 
 **Responsabilités :**  
 Développer des solutions technologiques fiables et robustes.  
 Participer à l’analyse technologique et de besoins d'affaire.  
 Effectuer un contrôle qualité rigoureux.  
+Installer et administrer des serveurs, Gitlab, Jenkins, Centos, Apache, mysql  
 Travailler au sein d'une équipe multidisciplinaire.  
 Participe à la définition et au raffinement des processus internes.  
 Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.  
@@ -58,6 +51,7 @@ Documenter les solutions.
 ### Développeur web – Commun ### 
 **Montréal 2012 Octobre-Novembre**
 
+<!--
 Commun est une agence de publicité numérique.
 
 **Responsabilités :**  
@@ -65,6 +59,7 @@ Maintenir et faire évoluer les solutions développées par l'agence.
 Documenter les librairies développées à l'interne.  
 
 **Environnement technique :** Linux Ubuntu et Centos, Mysql,  Apache, PHP, Mysql, Javascript, jQuery, Zend framework, Python, Django, Twitter api.
+-->
 
 ### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
 **Montréal 2007-2010**
