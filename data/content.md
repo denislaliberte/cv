@@ -9,7 +9,7 @@ COMPÉTENCES TECHNIQUES
 - Méthodologies Agiles : SCRUM et « Extreme Programming ».
 - Serveurs : Linux Ubuntu, RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Laravel, Ruby On Rails, RSpec, Git, fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, Drupal, AngularJS, Backbone.js, Jasmine, Jira, Confluence, Basecamp
+- Autres : Vagrant, laravel, Ruby On Rails, RSpec, Git, Gitlab, fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, Drupal, AngularJS, Backbone.js, Jasmine, Jira, Confluence, Basecamp
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
@@ -17,7 +17,7 @@ EXPÉRIENCE DE TRAVAIL
 ### Développeur web – [ TP1 ](http://tp1.ca) ###
 *Montréal 2014-Présent*
 
-TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
+TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif et commerce électronique.
 
 **Responsabilités :**  
 Développer des solutions technologiques fiables et robustes.  
