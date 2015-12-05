@@ -66,16 +66,6 @@ Documenter les solutions.
 ### Développeur web – Commun ### 
 **Montréal 2012 Octobre-Novembre**
 
-<!--
-Commun est une agence de publicité numérique.
-
-**Responsabilités :**  
-Maintenir et faire évoluer les solutions développées par l'agence.  
-Documenter les librairies développées à l'interne.  
-
-**Environnement technique :** Linux Ubuntu et Centos, Mysql,  Apache, PHP, Mysql, Javascript, jQuery, Zend framework, Python, Django, Twitter api.
--->
-
 ### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
 **Montréal 2007-2010**
 
