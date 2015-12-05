@@ -69,7 +69,7 @@ FORMATION ACADÉMIQUE
 
 ### [ DEC Intensif en informatique ](http://informatique.cvm.qc.ca/intensif) ###
 *2011-2012*  
-Profil informatique de gestion et gestion de réseaux <br/>
+Profil informatique de gestion et gestion de réseaux  
 CÉGEP du Vieux-Montréal, Montréal
 
 ### Études collégiales en Musique et chanson ###
