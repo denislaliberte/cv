@@ -4,7 +4,7 @@ Denis Laliberté
 [ ca.linkedin.com/in/denislaliberte ](http://ca.linkedin.com/in/denislaliberte) ||
 [ denislaliberte.github.com ](http://denislaliberte.github.com)  
 
-Compétences linguistiques : français et anglais fonctionnel
+Compétences linguistiques : français et anglais avancé
 
 ---
 
@@ -14,16 +14,16 @@ COMPÉTENCES TECHNIQUES
 - Langages : Ruby, Javascript, Python, PHP,  Java
 - Serveur d'intégration continue : Jenkins
 - Bases de données : MySQL, PostgreSQL, Oracle
-- Méthodologies Agiles : SCRUM et « Extreme Programming ».
+- Méthodologies Agiles : SCRUM, Kanban et « Extreme Programming ».
 - Serveurs : Linux Ubuntu, RedHat et CentOs 
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine, 
+- Autres : Vagrant, laravel, Ruby On Rails, RSpec, Git, Gitlab, fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, Drupal, AngularJS, Backbone.js, Jasmine, Jira, Confluence, Basecamp
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
 
-### Développeur web – TP1 ###
-**Montréal 2014-Présent** 
+### Développeur web – [ TP1 ](http://tp1.ca) ###
+*Montréal 2014-Présent*
 
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
 
@@ -37,10 +37,12 @@ Collaborer à la détermination des échéanciers et estimer le temps requis par
 Documenter les solutions.  
 
 
-**Environnement technique :** Ruby, Linux Centos, Redhat et Ubuntu, Mysql, PostgreSQL, Mysql,  Apache, Nginx, PHP,  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer 
+**Environnement technique :** Ruby, Ruby On Rails, Linux Centos, Redhat et Ubuntu, PostgreSQL, Mysql,  Apache, Nginx, PHP, Laravel, PHPUnit  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer, Backbone.js
 
-### Développeur web – Absolunet ###
-**Montréal 2013-2014**
+  \newpage
+
+### Développeur web – [ Absolunet ](http://absolunet.com) ###
+*Montréal 2013-2014*
 
 Absolunet est une agence interactive intégrée se spécialisant dans la stratégie internet, la réalisation de projets numériques, le commerce électronique et le marketing web.
 
@@ -70,12 +72,12 @@ Documenter les librairies développées à l'interne.
 FORMATION ACADÉMIQUE 
 --------------------------------------
 
-### DEC Intensif en informatique 2011-2012 ###
+### [ DEC Intensif en informatique ](http://informatique.cvm.qc.ca/intensif) ###
+*2011-2012*  
 Profil informatique de gestion et gestion de réseaux <br/>
 CÉGEP du Vieux-Montréal, Montréal
 
-### Études collégiales en Musique et chanson 2004-2007 ###
+### Études collégiales en Musique et chanson ###
+*2004-2007*  
 Profil composition et arrangement  
 Collège de St-Laurent, Montréal
-
-**Il me fera plaisir de vous transmettre des références sur demande.**
