@@ -23,6 +23,7 @@ TP1 est une agence de création numérique qui offre des services de création d
 Développer des solutions technologiques fiables et robustes.  
 Participer à l’analyse technologique et de besoins d'affaire.  
 Effectuer un contrôle qualité rigoureux.  
+Encadrer et former des stagiaires et développeurs junior.  
 Installer et administrer des serveurs, Gitlab, Jenkins, Centos, Apache, mysql  
 Travailler au sein d'une équipe multidisciplinaire.  
 Participe à la définition et au raffinement des processus internes.  
