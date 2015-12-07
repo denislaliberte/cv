@@ -10,14 +10,14 @@ Compétences linguistiques : français et anglais
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
-- Langages : Ruby, PHP, Javascript, Python<!--, Java -->
+- Langages : Ruby, PHP, Javascript, Python
 - Frameworks web : Laravel, Ruby On Rails
 - Serveur d'intégration continue : Jenkins
-- Bases de données : MySQL, PostgreSQL<!--, Oracle -->
-- Méthodologies Agiles : SCRUM, Kanban<!--, « Extreme Programming ». -->
-- Serveurs : Linux RedHat, CentOs<!--, Ubuntu -->
+- Bases de données : MySQL, PostgreSQL
+- Méthodologies Agiles : SCRUM, Kanban
+- Serveurs : Linux RedHat, CentOs
 - Serveurs web : Apache
-- Autres : Vagrant, RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira<!--, AngularJS, Backbone.js, Confluence, Wordpress -->
+- Autres : Vagrant, RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira, AngularJS
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
