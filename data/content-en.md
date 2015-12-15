@@ -2,19 +2,19 @@
 Thecnical skills
 -------------------------------------------
 
-- Langages : Ruby, Javascript, Python, PHP,  Java
+- Langages : Ruby, Javascript, Python, PHP
 - Serveur d'intégration continue : Jenkins
-- Bases de données : MySQL, PostgreSQL, Oracle
-- Méthodologies Agiles : SCRUM et « Extreme Programming ».
-- Serveurs : Linux Ubuntu, RedHat et CentOs
+- Bases de données : MySQL, PostgreSQL
+- Méthodologies Agiles : SCRUM, Kanban
+- Serveurs : Linux RedHat et CentOs
 - Serveurs web : Apache
-- Autres : Ruby On Rails, RSpec, Git, fabric, Composer, Bash, Behat, PHPSpec, Drupal, AngularJS, Jasmine,
+- Others : Vagrant, RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira, AngularJS
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
 
-### Développeur web – [ TP1 ](http://tp1.ca) ###
-*Montréal 2014-Présent*
+### Web developper – [ TP1 ](http://tp1.ca) ###
+*Montreal 2014-present*
 
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif, stratégie Internet, stratégie de marque, branding, design web, design graphique, médias sociaux, gestion du contenu et commerce électronique.
 
