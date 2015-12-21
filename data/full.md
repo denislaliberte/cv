@@ -1,3 +1,6 @@
+Programeur avec trois ans d'expérience en développement web dans un context 
+agile (scrum et kanban). J'ai une double formation en programation et gestion de 
+réseau et réalisé des 
 
 COMPÉTENCES TECHNIQUES
 -------------------------------------------

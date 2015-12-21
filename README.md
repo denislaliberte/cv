@@ -39,11 +39,10 @@ TP1 est une agence de création numérique qui offre des services de création d
 Développer des solutions technologiques fiables et robustes.  
 Participer à l’analyse technologique et de besoins d'affaire.  
 Effectuer un contrôle qualité rigoureux.  
-Encadrer et former des développeurs junior et stagiaires.  
-Installer et administrer des serveurs, Gitlab, Jenkins, Centos, Apache, Mysql.  
-Participe à la définition et au raffinement des processus internes.  
+Encadrer et former des développeurs juniors et stagiaires.  
+Participe à la définition et au raffinement des processus techniques.  
 Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.  
-Documenter les solutions.  
+Effectuer et automatiser des taches d'administration de système, déploiement, installation et configuration de serveurs.  
 
 **Environnement technique :** Ruby, Ruby On Rails, Linux Centos, Redhat et Ubuntu, PostgreSQL, Mysql,  Apache, Nginx, PHP, Laravel, PHPUnit  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer, Backbone.js, vagrant, Virtual Box, VMWare vSphere
 
