@@ -4,6 +4,12 @@
    Author's custom styles
    ========================================================================== */
 
+@media (min-width: 992px) {
+  .container {
+    width: 750px;
+  }
+}
+
 
 
 
