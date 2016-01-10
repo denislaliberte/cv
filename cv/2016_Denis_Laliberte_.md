@@ -1,9 +1,9 @@
 Denis Laliberté
 ============
-
-denis.laliberte@gmail.com || [ denislaliberte.github.io ](http://denislaliberte.github.io)
-
-Compétences linguistiques : français et anglais
+français et anglais  
+denis.laliberte@gmail.com  
+Montréal, Québec  
+[ denislaliberte.github.io ](http://denislaliberte.github.io)
 
 ---
 
