@@ -9,7 +9,7 @@ Montréal, Québec
 
 Je suis un développeur Web avec trois ans d'expérience.
 J'ai un diplome d'études collégiale en informatique avec une double spécialisation en programmation et gestion de réseau.
-Je m'intéresse aux technologie opensources et aux méthodologies agiles.
+Je m'intéresse aux technologies opensources et aux méthodologies agiles.
 
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
