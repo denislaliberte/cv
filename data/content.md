@@ -1,4 +1,8 @@
 
+Je suis un développeur Web avec trois ans d'expérience.
+J'ai un diplome d'études collégiale en informatique avec une double spécialisation en programmation et gestion de réseau.
+Je m'intéresse aux technologie opensources et aux méthodologies agiles.
+
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
@@ -11,6 +15,21 @@ COMPÉTENCES TECHNIQUES
 - Serveurs web : Apache
 - Virtualisation: Vagrant, VirtualBox, VMWare vSphere
 - Autres : RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira, AngularJS
+
+FORMATION ACADÉMIQUE 
+--------------------------------------
+
+### [ DEC Intensif en informatique ](http://informatique.cvm.qc.ca/intensif) ###
+*2011-2012*  
+Profil informatique de gestion et gestion de réseaux  
+CÉGEP du Vieux-Montréal, Montréal
+
+### Études collégiales en Musique et chanson ###
+*2004-2007*  
+Profil composition et arrangement  
+Collège de St-Laurent, Montréal
+
+  \newpage
 
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
@@ -31,7 +50,6 @@ Effectuer et automatiser des taches d'administration de système, déploiement, 
 
 **Environnement technique :** Ruby, Ruby On Rails, Linux Centos, Redhat et Ubuntu, PostgreSQL, Mysql,  Apache, Nginx, PHP, Laravel, PHPUnit  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer, Backbone.js, vagrant, Virtual Box, VMWare vSphere
 
-  \newpage
 
 ### Développeur web – [ Absolunet ](http://absolunet.com) ###
 *Montréal 2013-2014*
@@ -50,15 +68,3 @@ Documenter les solutions.
 ### Gérant d’artistes musicaux - Gestion Denis Laliberté ###
 **Montréal 2007-2010**
 
-FORMATION ACADÉMIQUE 
---------------------------------------
-
-### [ DEC Intensif en informatique ](http://informatique.cvm.qc.ca/intensif) ###
-*2011-2012*  
-Profil informatique de gestion et gestion de réseaux  
-CÉGEP du Vieux-Montréal, Montréal
-
-### Études collégiales en Musique et chanson ###
-*2004-2007*  
-Profil composition et arrangement  
-Collège de St-Laurent, Montréal
