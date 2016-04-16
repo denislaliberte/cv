@@ -1,11 +1,10 @@
-Menu link
-éducation
-English version
-Pdf header
-Windows doc version
-pdf style
-filter from full.md
-devops
-responsabilités
-résumé
-chatops
+cv todo
+=========
+
+- new job
+- cv.laliberte.io
+- Menu link
+- English version
+- Pdf header
+- Windows doc version
+- pdf style
