@@ -2,9 +2,9 @@ cv todo
 =========
 
 - add garda
-- fix redirction with old cv repos ( /cv/index.html)
 - refactor build script to rake
 - add new email adress
+- fix redirction with old cv repos ( /cv/index.html)
 
 
 
@@ -12,15 +12,16 @@ Somedays
 =======
 
 - Menu link
-- add project list
 - add repos link
+- add project list
 - add motivation letter
-- extract base project to opensource
-- English version
-- Pdf header
-- Windows doc version
-- pdf style
-- add job listing
 - add mdwiki
-- add reading list 
-- add awseome list
+- add reading list (https://github.com/sindresorhus/awesome#books)
+- add job listing
+- English version
+- Windows doc version
+- Pdf header
+- pdf style
+- refactor to use pure ruby instead of pandoc
+- refactor to a real static site generator (middleman, pelican, hexo or other staticgen.com)
+- extract base project to opensource
