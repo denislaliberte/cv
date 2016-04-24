@@ -5,6 +5,7 @@ cv todo
 - refactor build script to rake
 - add new email adress
 - fix redirction with old cv repos ( /cv/index.html)
+- add job@email
 
 
 
