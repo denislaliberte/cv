@@ -1,16 +1,26 @@
 cv todo
 =========
 
-- refactor to one repos, laliberte.io
 - add garda
+- fix redirction with old cv repos ( /cv/index.html)
 - refactor build script to rake
-- Menu link
-- English version
+- add new email adress
+
 
 
 Somedays
 =======
 
+- Menu link
+- add project list
+- add repos link
+- add motivation letter
+- extract base project to opensource
+- English version
 - Pdf header
 - Windows doc version
 - pdf style
+- add job listing
+- add mdwiki
+- add reading list 
+- add awseome list
