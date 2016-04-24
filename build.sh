@@ -7,11 +7,11 @@ echo "##########################################################################
 
 
 echo "cleanup (remove cv folders content)"
-sudo rm -r private/cv
+rm -rf private
 rm cv/*
-rm en/*
-mkdir private
-mkdir private/cv
+rm -rf en
+mkdir -p private/cv
+mkdir en/cv
 
 echo "export html"
 cat data/header.md data/content.md > cv/2016_Denis_Laliberte_.md
