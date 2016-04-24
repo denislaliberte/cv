@@ -11,15 +11,18 @@ cv todo
 Somedays
 =======
 
+- add description to homepage
 - Menu link
 - add repos link
 - add project list
 - add motivation letter
 - add mdwiki
+- benchmark more wiki
 - add reading list (https://github.com/sindresorhus/awesome#books)
 - add job listing
 - English version
 - Windows doc version
+- stackoverflow
 - Pdf header
 - pdf style
 - refactor to use pure ruby instead of pandoc
