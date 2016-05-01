@@ -4,7 +4,7 @@ Generate navigation for markdown site
 
 ## roadmap
 
-- index file with a link to each md file of the current folder
+- mdindex index file with a link to each md file of the current folder
 - traverse the directory to generate all index files
 - sitemap file for the complete directory file
 - hub page list all children page in index.md until it find an other index.md
