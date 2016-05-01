@@ -1,0 +1,185 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'mddir', '-g' ]
+2 info using npm@2.7.1
+3 info using node@v0.12.0
+4 verbose node symlink /usr/local/bin/node
+5 silly cache add args [ 'mddir', null ]
+6 verbose cache add spec mddir
+7 silly cache add parsed spec { raw: 'mddir',
+7 silly cache add   scope: null,
+7 silly cache add   name: 'mddir',
+7 silly cache add   rawSpec: '',
+7 silly cache add   spec: '*',
+7 silly cache add   type: 'range' }
+8 verbose addNamed mddir@*
+9 silly addNamed semver.valid null
+10 silly addNamed semver.validRange *
+11 silly addNameRange { name: 'mddir', range: '*', hasData: false }
+12 silly mapToRegistry name mddir
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/mddir
+16 verbose addNameRange registry:https://registry.npmjs.org/mddir not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/mddir
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 10:11:55
+20 verbose request id 932580c0ac035cca
+21 http request GET https://registry.npmjs.org/mddir
+22 http 200 https://registry.npmjs.org/mddir
+23 silly get cb [ 200,
+23 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+23 silly get     etag: '"F0K7SXG7OOF4NIYMNPJEQ4DHR"',
+23 silly get     'content-type': 'application/json',
+23 silly get     'cache-control': 'max-age=300',
+23 silly get     'content-length': '63962',
+23 silly get     'accept-ranges': 'bytes',
+23 silly get     date: 'Sun, 01 May 2016 14:11:56 GMT',
+23 silly get     via: '1.1 varnish',
+23 silly get     age: '0',
+23 silly get     connection: 'keep-alive',
+23 silly get     'x-served-by': 'cache-iad2135-IAD',
+23 silly get     'x-cache': 'MISS',
+23 silly get     'x-cache-hits': '0',
+23 silly get     'x-timer': 'S1462111916.028019,VS0,VE107',
+23 silly get     vary: 'Accept-Encoding' } ]
+24 verbose get saving mddir to /Users/dl/.npm/registry.npmjs.org/mddir/.cache.json
+25 silly addNameRange number 2 { name: 'mddir', range: '*', hasData: true }
+26 silly addNameRange versions [ 'mddir',
+26 silly addNameRange   [ '1.0.0',
+26 silly addNameRange     '1.0.1',
+26 silly addNameRange     '1.0.2',
+26 silly addNameRange     '1.0.3',
+26 silly addNameRange     '1.0.4',
+26 silly addNameRange     '1.0.5',
+26 silly addNameRange     '1.0.6',
+26 silly addNameRange     '1.0.7',
+26 silly addNameRange     '1.0.8',
+26 silly addNameRange     '1.0.9',
+26 silly addNameRange     '1.1.0' ] ]
+27 verbose addNamed mddir@1.1.0
+28 silly addNamed semver.valid 1.1.0
+29 silly addNamed semver.validRange 1.1.0
+30 silly mapToRegistry name mddir
+31 silly mapToRegistry using default registry
+32 silly mapToRegistry registry https://registry.npmjs.org/
+33 silly mapToRegistry uri https://registry.npmjs.org/mddir
+34 verbose addRemoteTarball https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz not in flight; adding
+35 verbose addRemoteTarball [ 'https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz',
+35 verbose addRemoteTarball   '997638d88654b378b6de09ff97de46bc786ac5ee' ]
+36 info retry fetch attempt 1 at 10:11:56
+37 info attempt registry request try #1 at 10:11:56
+38 http fetch GET https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz
+39 http fetch 200 https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz
+40 silly fetchAndShaCheck shasum 997638d88654b378b6de09ff97de46bc786ac5ee
+41 verbose addTmpTarball /var/folders/j0/00bcr8_x10ddlqm9n9l2csjw0000gn/T/npm-25378-cc7283f0/registry.npmjs.org/mddir/-/mddir-1.1.0.tgz not in flight; adding
+42 verbose addTmpTarball already have metadata; skipping unpack for mddir@1.1.0
+43 silly cache afterAdd mddir@1.1.0
+44 verbose afterAdd /Users/dl/.npm/mddir/1.1.0/package/package.json not in flight; writing
+45 verbose afterAdd /Users/dl/.npm/mddir/1.1.0/package/package.json written
+46 silly install resolved [ { name: 'mddir',
+46 silly install resolved     version: '1.1.0',
+46 silly install resolved     description: 'Generate markdown folder structure for readme files',
+46 silly install resolved     main: 'mddir.js',
+46 silly install resolved     scripts: { test: 'echo "Error: no test specified" && exit 1' },
+46 silly install resolved     repository:
+46 silly install resolved      { type: 'git',
+46 silly install resolved        url: 'git+https://github.com/JohnByrneRepo/mddir.git' },
+46 silly install resolved     keywords: [ 'Markdown', 'Directory', 'Service', 'Parsing' ],
+46 silly install resolved     author: { name: 'John Byrne' },
+46 silly install resolved     license: 'MIT',
+46 silly install resolved     bugs: { url: 'https://github.com/JohnByrneRepo/mddir/issues' },
+46 silly install resolved     engines: { node: '>=0.10.0' },
+46 silly install resolved     preferGlobal: true,
+46 silly install resolved     bin: { mddir: './src/mddir.js' },
+46 silly install resolved     homepage: 'https://github.com/JohnByrneRepo/mddir',
+46 silly install resolved     contributors: [ [Object], [Object], [Object], [Object] ],
+46 silly install resolved     gitHead: '9e932a6d964d0f4e1e8f83e6b9490fd7ce80838f',
+46 silly install resolved     _id: 'mddir@1.1.0',
+46 silly install resolved     _shasum: '997638d88654b378b6de09ff97de46bc786ac5ee',
+46 silly install resolved     _from: 'mddir@*',
+46 silly install resolved     _npmVersion: '2.14.12',
+46 silly install resolved     _nodeVersion: '4.2.6',
+46 silly install resolved     _npmUser: { name: 'johnbyrne', email: 'html5css3@outlook.com' },
+46 silly install resolved     dist:
+46 silly install resolved      { shasum: '997638d88654b378b6de09ff97de46bc786ac5ee',
+46 silly install resolved        tarball: 'https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz' },
+46 silly install resolved     maintainers: [ [Object] ],
+46 silly install resolved     _npmOperationalInternal:
+46 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+46 silly install resolved        tmp: 'tmp/mddir-1.1.0.tgz_1458076161242_0.022332970518618822' },
+46 silly install resolved     directories: {},
+46 silly install resolved     _resolved: 'https://registry.npmjs.org/mddir/-/mddir-1.1.0.tgz' } ]
+47 info install mddir@1.1.0 into /usr/local/lib
+48 info installOne mddir@1.1.0
+49 verbose installOne of mddir to /usr/local/lib not in flight; installing
+50 verbose lock using /Users/dl/.npm/_locks/mddir-9c5687fbede7289e.lock for /usr/local/lib/node_modules/mddir
+51 silly install write writing mddir 1.1.0 to /usr/local/lib/node_modules/mddir
+52 silly cache addNamed cb mddir@1.1.0
+53 verbose unbuild lib/node_modules/mddir
+54 verbose gentlyRm vacuuming /usr/local/lib/node_modules/mddir
+55 verbose tar unpack /Users/dl/.npm/mddir/1.1.0/package.tgz
+56 verbose tar unpacking to /usr/local/lib/node_modules/mddir
+57 verbose gentlyRm vacuuming /usr/local/lib/node_modules/mddir
+58 silly gunzTarPerm modes [ '755', '644' ]
+59 silly gunzTarPerm extractEntry package.json
+60 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+61 silly gunzTarPerm extractEntry .npmignore
+62 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+63 silly gunzTarPerm extractEntry README.md
+64 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+65 silly gunzTarPerm extractEntry AUTHORS
+66 silly gunzTarPerm modified mode [ 'AUTHORS', 438, 420 ]
+67 silly gunzTarPerm extractEntry CHANGES.md
+68 silly gunzTarPerm modified mode [ 'CHANGES.md', 438, 420 ]
+69 silly gunzTarPerm extractEntry LICENSE.txt
+70 silly gunzTarPerm modified mode [ 'LICENSE.txt', 438, 420 ]
+71 silly gunzTarPerm extractEntry logo.svg
+72 silly gunzTarPerm modified mode [ 'logo.svg', 438, 420 ]
+73 silly gunzTarPerm extractEntry mddir.png
+74 silly gunzTarPerm modified mode [ 'mddir.png', 438, 420 ]
+75 silly gunzTarPerm extractEntry src/mddir.js
+76 silly gunzTarPerm modified mode [ 'src/mddir.js', 438, 420 ]
+77 info preinstall mddir@1.1.0
+78 silly install resolved []
+79 verbose about to build /usr/local/lib/node_modules/mddir
+80 info build /usr/local/lib/node_modules/mddir
+81 verbose linkStuff [ true,
+81 verbose linkStuff   '/usr/local/lib/node_modules',
+81 verbose linkStuff   true,
+81 verbose linkStuff   '/usr/local/lib/node_modules' ]
+82 info linkStuff mddir@1.1.0
+83 verbose linkBins mddir@1.1.0
+84 verbose link bins [ { mddir: './src/mddir.js' }, '/usr/local/bin', true ]
+85 verbose linkMans mddir@1.1.0
+86 verbose rebuildBundles mddir@1.1.0
+87 verbose gentlyRm verifying that /usr/local is managed by npm
+88 silly isManaged /usr/local is not inside /usr/local/lib/node_modules
+89 silly isManaged /usr/local is not inside /usr/local/lib/node_modules
+90 silly isManaged /usr/local/bin is inside /usr/local
+91 silly gentlyRm /usr/local is managed by npm
+92 silly gentlyRm /usr/local/bin/mddir is under /usr/local
+93 verbose gentlyRm vacuuming /usr/local/bin/mddir up to /usr/local
+94 info install mddir@1.1.0
+95 info postinstall mddir@1.1.0
+96 verbose unlock done using /Users/dl/.npm/_locks/mddir-9c5687fbede7289e.lock for /usr/local/lib/node_modules/mddir
+97 verbose stack Error: The package generator-karma does not satisfy its siblings' peerDependencies requirements!
+97 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+97 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:264:7
+97 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+97 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+97 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+97 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+97 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+97 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+97 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+97 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+98 verbose cwd /Users/dl/Sites/denislaliberte.github.io/wiki/projects/mdnav
+99 error Darwin 14.0.0
+100 error argv "node" "/usr/local/bin/npm" "install" "mddir" "-g"
+101 error node v0.12.0
+102 error npm  v2.7.1
+103 error code EPEERINVALID
+104 error peerinvalid The package generator-karma does not satisfy its siblings' peerDependencies requirements!
+104 error peerinvalid Peer generator-angular@0.7.1 wants generator-karma@~0.6.0
+104 error peerinvalid Peer generator-angular-silex@0.1.2 wants generator-karma@~0.2.0
+105 verbose exit [ 1, true ]
