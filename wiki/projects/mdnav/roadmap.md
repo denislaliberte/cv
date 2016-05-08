@@ -4,6 +4,7 @@ Generate navigation for markdown site
 
 ## roadmap
 
+- use cog or like to add breadcrumb to files
 - mdindex index file with a link to each md file of the current folder
 - traverse the directory to generate all index files
 - sitemap file for the complete directory file
