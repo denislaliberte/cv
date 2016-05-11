@@ -1,0 +1,77 @@
+# My math namespace
+
+## imports
+- Math
+
+## Addition
+
+Everything that is not in as s expression is documentation
+
+Markdown,rts and other clear text markup language are supported
+
+(def add,
+  (params (first, second))
+  (+, first, second )
+)
+
+
+## [Multiplication]
+
+Documentation can be include in the description of a function
+
+Like this function documentation include everithing in the current section
+
+(def mul
+  "[Multiplication]"
+  (params (first, second))
+  (*, first, second)
+)
+
+## Division
+
+Features specification is first class citizen
+
+(Scenario: I want to divide two numbers
+- Given two parameter 4 and 2
+- When i call divide
+- Then the return value shoulb be 2)
+
+(def divide
+  (params ())
+  (/, first, second)
+)
+
+You can also add unit test
+(unit
+  (= (divide, 4, 2), 2)
+)
+
+## exponent
+
+(Scenario: I want to divide two numbers
+  (pending, exponent_tag)
+- Given two parameter 4 and 2
+- When i call divide
+- Then the return value shoulb be 2)
+
+(def exponent:exponent_tag
+  (params ())
+)
+
+## new division
+(Scenario: I want to divide two numbers
+  (pending, new_divide)
+- Given two parameter 4 and 2
+- When i call divide
+- Then the return value shoulb be 2)
+
+(def divide:new_divide
+  (params ())
+  (/, first, second)
+)
+
+(doc.h3, substract
+  'markdown syntax is compiled to s expression ### compile to doc.h3 function with the name as param and the children text section as second argument'
+  (scenario:(pendind, substract_feature_tag))
+  (def sub:substract_feature_tag,'[substract]')
+)
