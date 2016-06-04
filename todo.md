@@ -2,17 +2,17 @@ cv todo
 =========
 
 - add garda
-- move cv files { data, private, build.sh } to cv folder
 - refactor build script to rake
+- move cv files { data, private, build.sh } to cv folder
 - add new email adress
 - fix redirction with old cv repos ( /cv/index.html)
-- add job@email
 
 
 
 Somedays
 =======
 
+- add job@email
 - add description to homepage
 - Menu link
 - add repos link
