@@ -1,7 +1,6 @@
 cv todo
 =========
 
-- add garda
 - refactor build script to rake
 - move cv files { data, private, build.sh } to cv folder
 - add new email adress
