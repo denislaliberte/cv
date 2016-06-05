@@ -42,8 +42,21 @@ Collège de St-Laurent, Montréal
 EXPÉRIENCE DE TRAVAIL
 -------------------------------------
 
+### Développeur web – [ GardaWorld ](http://garda.com) ###
+*Montréal 2016-Présent*
+
+L'agence de sécurité GardaWorld offre des services de protection, de transport de valeurs, de sécurité internationale et de gestion de ressources humaines.
+
+**Responsabilités :**  
+- Contribuer aux projets en participant à l'analyse, l'architecture, le développement, les tests et la documentation;
+- Diagnostiquer et résoudre les problèmes techniques et fonctionnels liés aux logiciels et systèmes;
+- S’assurer de la qualité des livrables en appliquant les processus de test et de gestion de changement;
+- Effectuer le support technique aux utilisateurs et aux autres équipes.
+
+**Environnement technique :** Python, django, postgresql, backbonesjs, ubuntu
+
 ### Développeur web – [ TP1 ](http://tp1.ca) ###
-*Montréal 2014-Présent*
+*Montréal 2014-2016*
 
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif et commerce électronique.
 
