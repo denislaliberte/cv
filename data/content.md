@@ -6,15 +6,15 @@ Je m'intéresse aux technologies opensources et aux méthodologies agiles.
 COMPÉTENCES TECHNIQUES
 -------------------------------------------
 
-- Langages : Ruby, PHP, Javascript, Python
-- Frameworks web : Laravel, Ruby On Rails
+- Langages : Python, Ruby, Javascript, PHP
+- Frameworks web : Django, Laravel, Ruby On Rails
 - Serveur d'intégration continue : Jenkins
 - Bases de données : MySQL, PostgreSQL
 - Méthodologies Agiles : SCRUM, Kanban
-- Serveurs : Linux RedHat, CentOs
+- Serveurs : Linux RedHat, CentOs, Ubuntu
 - Serveurs web : Apache
 - Virtualisation: Vagrant, VirtualBox, VMWare vSphere
-- Autres : RSpec, Git, Gitlab, Fabric, Composer, Bash, PHPUnit, Behat, PHPSpec, PHPUnit, Drupal, Jasmine, Jira, AngularJS
+- Autres : Ansible, Git, Cucumber, RSpec, Gitlab, Fabric, Bash, Jasmine, Jira, Backbonesjs, AngularJS
 
 FORMATION ACADÉMIQUE 
 --------------------------------------
@@ -46,7 +46,7 @@ L'agence de sécurité GardaWorld offre des services de protection, de transport
 - S’assurer de la qualité des livrables en appliquant les processus de test et de gestion de changement;
 - Effectuer le support technique aux utilisateurs et aux autres équipes.
 
-**Environnement technique :** Python, django, postgresql, backbonesjs, ubuntu
+**Environnement technique :** Python, django, postgresql, backbonejs, ubuntu
 
 ### Développeur web – [ TP1 ](http://tp1.ca) ###
 *Montréal 2014-2016*
