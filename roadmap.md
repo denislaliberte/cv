@@ -1,14 +1,14 @@
 cv todo
 =========
 
-- refactor build script to rake
+- add page header to pdf
+- refactor build script to cli app
+- generate md from template and yaml
 - move cv files { data, private, build.sh } to cv folder
 - add new email adress
-- fix redirction with old cv repos ( /cv/index.html)
 
 
-
-Somedays
+Backlog
 =======
 
 - add job@email

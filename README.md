@@ -48,6 +48,7 @@ EXPÉRIENCE DE TRAVAIL
 L'agence de sécurité GardaWorld offre des services de protection, de transport de valeurs, de sécurité internationale et de gestion de ressources humaines.
 
 **Responsabilités :**  
+
 - Contribuer aux projets en participant à l'analyse, l'architecture, le développement, les tests et la documentation;
 - Diagnostiquer et résoudre les problèmes techniques et fonctionnels liés aux logiciels et systèmes;
 - S’assurer de la qualité des livrables en appliquant les processus de test et de gestion de changement;
@@ -61,13 +62,14 @@ L'agence de sécurité GardaWorld offre des services de protection, de transport
 TP1 est une agence de création numérique qui offre des services de création de sites web, marketing interactif et commerce électronique.
 
 **Responsabilités :**  
-Développer des solutions technologiques fiables et robustes.  
-Participer à l’analyse technologique et de besoins d'affaire.  
-Effectuer un contrôle qualité rigoureux.  
-Encadrer et former des développeurs juniors et stagiaires.  
-Participe à la définition et au raffinement des processus techniques.  
-Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.  
-Effectuer et automatiser des taches d'administration de système, déploiement, installation et configuration de serveurs.  
+
+- Développer des solutions technologiques fiables et robustes.
+- Participer à l’analyse technologique et de besoins d'affaire.
+- Effectuer un contrôle qualité rigoureux.
+- Encadrer et former des développeurs juniors et stagiaires.
+- Participe à la définition et au raffinement des processus techniques.
+- Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.
+- Effectuer et automatiser des taches d'administration de système, déploiement, installation et configuration de serveurs.
 
 **Environnement technique :** Ruby, Ruby On Rails, Linux Centos, Redhat et Ubuntu, PostgreSQL, Mysql,  Apache, Nginx, PHP, Laravel, PHPUnit  Javascript,  Drupal, jenkins CI, Fabric, PHPSpec, Composer, Backbone.js, vagrant, Virtual Box, VMWare vSphere
 
@@ -78,11 +80,12 @@ Effectuer et automatiser des taches d'administration de système, déploiement, 
 Absolunet est une agence interactive intégrée se spécialisant dans la stratégie internet, la réalisation de projets numériques, le commerce électronique et le marketing web.
 
 **Responsabilités :**  
-Développer des systèmes répondant aux besoins d'affaire du client.  
-Développer et optimiser l'architecture des projets.  
-Effectuer un contrôle qualité rigoureux.  
-Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.  
-Documenter les solutions.  
+
+- Développer des systèmes répondant aux besoins d'affaire du client.
+- Développer et optimiser l'architecture des projets.
+- Effectuer un contrôle qualité rigoureux.
+- Collaborer à la détermination des échéanciers et estimer le temps requis par fonctionnalités.
+- Documenter les solutions.
 
 **Environnement technique :** Linux Ubuntu, Mysql,  Apache, Nginx, PHP, Mysql, Javascript, jQuery, C#, Drupal, Sitecore,  .NET  Microsoft SQL server, Symfony 2, Méthodologie Scrum, Google Map Api
 
