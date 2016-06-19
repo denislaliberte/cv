@@ -1,8 +1,8 @@
 cv todo
 =========
 
-- add page header to pdf
 - refactor build script to cli app
+- add page header to pdf
 - generate md from template and yaml
 - move cv files { data, private, build.sh } to cv folder
 - add new email adress
