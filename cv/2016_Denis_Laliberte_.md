@@ -54,7 +54,7 @@ L'agence de sécurité GardaWorld offre des services de protection, de transport
 - S’assurer de la qualité des livrables en appliquant les processus de test et de gestion de changement;
 - Effectuer le support technique aux utilisateurs et aux autres équipes.
 
-**Environnement technique :** Python, django, postgresql, backbonejs, ubuntu
+**Environnement technique :** Javascript, Python, Backbone.js, Django, PostgreSQL, Amazon RDS,   Handlebar, require, Apache, OpenLDAP
 
 ### Développeur web – [ TP1 ](http://tp1.ca) ###
 *Montréal 2014-2016*
