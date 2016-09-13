@@ -1,6 +1,10 @@
-# Resume
+# Resume V1.0
 
 Generate resume from yaml files
+
+## installation
+
+    $ npm install
 
 ## Usage
 
@@ -14,6 +18,3 @@ Generate resume from yaml files
       generate fr/cv.html
       generate fr/cv.pdf
 
-## installation
-
-    $ npm install
