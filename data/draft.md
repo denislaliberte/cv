@@ -1,6 +1,3 @@
-#expérience
-trois ans d'expérience
-
 #buzzword
 opensource
 php ruby javascript python
@@ -31,16 +28,6 @@ responsabilités :
 
 Veille technologique et bonnes pratiques
 Conseiller dans le choix des solutions et des technologies appropriées
-
-#tache
-Développement Laravel
-Application avec multiple database
-Dévelopement de système d'information, loggin + rapport d'utilisation et rapport d'erreu
-Jeu mobile
-Installation de serveurs jenkins, gitlab
-Hubot
-Automatisation de tache d'administration système
-Créer des wireframe avec axure
 
 ## liste de cours et desctiptions
 
@@ -74,11 +61,4 @@ Projet Oracle
 
 ##php
 Programmation WEB avancée
-
-
-
-
-
-
-
 
